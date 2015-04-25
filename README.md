@@ -1,1 +1,1 @@
-# realgridjs.realgrid.com
+# RealGrid User Guide
